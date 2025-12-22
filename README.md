@@ -16,6 +16,6 @@
     Communities
     And More!
     
-    This project was made by https://github.com/rModhomebrew
+    This project was made by https://github.com/Lakiitu
     If there is any problemes related with the project Please contact 0codegame0@gmail.com
     
