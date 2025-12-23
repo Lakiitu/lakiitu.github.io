@@ -18,6 +18,6 @@
     
     Project Director Julien (arc.ju on discord)
     This project was made by https://github.com/Lakiitu
-    If there is any problemes related with the project Please contact 0codegame0@gmail.com
+    If there is any problems related with the project Please contact 0codegame0@gmail.com
     
 
