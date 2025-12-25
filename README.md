@@ -1,23 +1,42 @@
 # Hello welcome to Lakiitu Frontend 
-    What is Lakiitu - Lakiitu is a frontend emulator that lunch online roms, cloud gaming services and much more coming soon.
-    Why was this project created?
-    Well short anwser : theres not that much option that have cross platform services 
-    and some other projects are taking lots of time to come out.
-    
-    For now Lakiitu is still under devloppment and is planned to come out January-June 2026
+What is Lakiitu?
 
-    Planned features :
-    RetroAchivements
-    Musiic - Video Game Music API
-    App luncher ( YouTube, Twitch, Discord and more)
-    Custom Themes 
-    Stickers
-    Profile
-    Communities
-    And More!
-    
-    Project Director Julien (arc.ju on discord)
-    This project was made by https://github.com/Lakiitu
-    If there is any problems related with the project Please contact 0codegame0@gmail.com
-    
+Lakiitu is a frontend emulator designed to launch online ROMs, integrate cloud gaming services, and support many more features currently in development.
+Its goal is to unify gaming and entertainment experiences into one simple, cross-platform interface.
 
+Why was this project created?
+
+Short answer: there aren’t many good cross-platform solutions available, and many existing projects take a very long time to release or mature.
+
+Lakiitu was created to offer a faster, more flexible alternative—built with modern needs in mind and focused on accessibility across platforms.
+
+Development Status
+
+Lakiitu is currently under development.
+Planned release window: January – June 2026.
+
+Planned Features
+
+🎮 RetroAchievements integration
+
+🎵 Music & Video Game Music API
+
+📱 App Launcher (YouTube, Twitch, Discord, and more)
+
+🎨 Custom Themes
+
+🧩 Stickers
+
+👤 User Profiles
+
+🌐 Communities
+
+➕ And much more!
+
+Project Information
+
+Project Director: Julien (arc.ju on Discord)
+
+GitHub Organization: https://github.com/Lakiitu
+
+Contact (issues or inquiries): 0codegame0@gmail.com
