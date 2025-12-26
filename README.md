@@ -1,42 +1,26 @@
-# Hello welcome to Lakiitu Frontend 
+# Hello welcome to Lakiitu Github page!
+
 What is Lakiitu?
+Lakiitu is a high-end, console-like gaming frontend designed to centralize emulation, cloud gaming, media, and community into one seamless experience. Built with a focus on speed, aesthetics, and user immersion, Lakiitu eliminates the need for multiple launchers by providing a single, consistent interface. Lakiitu will be the first cross-platform frontend with the core target about aesthetics.
 
-Lakiitu is a frontend emulator designed to launch online ROMs, integrate cloud gaming services, and support many more features currently in development.
-Its goal is to unify gaming and entertainment experiences into one simple, cross-platform interface.
+Key Features
+Unified Hub: Access your entire library—from retro emulators to modern cloud services—in one place.
+Lensmen AI Helper: A contextual AI assistant available in the quick menu. Inspired by the watchful Lakitu, it automatically detects your current game to provide instant tips, walkthroughs, and help when you're stuck.
+Musiic Integration: A dedicated music experience to stream game soundtracks and curated libraries without interrupting your gameplay or browsing.
+RetroAchievements: Native integration to track progress, scores, and unlock achievements for classic titles.
+Cloud Gaming Ready: Built-in support for Xbox Cloud Gaming and NVIDIA GeForce NOW.
 
-Why was this project created?
+Planned release
+Private alpha & beta: January-June 2026
+Public Release: July-December 2027
+*Dates may change.*
 
-Short answer: there aren’t many good cross-platform solutions available, and many existing projects take a very long time to release or mature.
+Contact & Contributions
+We welcome feature ideas and community feedback!
+Project director: arc.ju on discord
+Email: 0codegame0@gmail.com
+GitHub: github.com/Lakiitu
 
-Lakiitu was created to offer a faster, more flexible alternative—built with modern needs in mind and focused on accessibility across platforms.
+Developed with a passion for gaming preservation and seamless user experiences.
 
-Development Status
-
-Lakiitu is currently under development.
-Planned release window: January – June 2026.
-
-Planned Features
-
-🎮 RetroAchievements integration
-
-🎵 Music & Video Game Music API
-
-📱 App Launcher (YouTube, Twitch, Discord, and more)
-
-🎨 Custom Themes
-
-🧩 Stickers
-
-👤 User Profiles
-
-🌐 Communities
-
-➕ And much more!
-
-Project Information
-
-Project Director: Julien (arc.ju on Discord)
-
-GitHub Organization: https://github.com/Lakiitu
-
-Contact (issues or inquiries): 0codegame0@gmail.com
+*Please read source.md in files tab!*
