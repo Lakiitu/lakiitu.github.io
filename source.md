@@ -29,6 +29,9 @@ source.md: Licensing and asset attribution.
 
 LICENSE: MIT License description
 
+Legal Info 
+WE DO NOT PROVIDE PIRATED GAME ROM. THIS WEBSITE IS NOT A ROM DOWNLOADER. WE ONLY PROVIDE LINKS TO THE WEBSITE.
+We are committed to providing a online UI that respects intellectual property.
 
 📧 Contact
 For legal inquiries or contribution requests, please contact: 0codegame0@gmail.com
