@@ -15,7 +15,7 @@ Private alpha & beta: January-June 2026
 Public Release: July-December 2027
 *Dates may change.*
 
-Learn more at: lakiitu.github.io
+Learn more at: https://lakiitu.github.io
 
 Contact & Contributions
 We welcome feature ideas and community feedback!
