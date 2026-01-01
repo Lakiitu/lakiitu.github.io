@@ -1,0 +1,38 @@
+.App {
+  width: 100%;
+  height: 100vh;
+  overflow: hidden;
+  position: relative;
+  -webkit-app-region: drag;
+}
+
+button, a, input, select {
+  -webkit-app-region: no-drag;
+}
+
+.loading-screen {
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background: linear-gradient(135deg, #5A9FD4 0%, #4A8FC4 100%);
+  color: white;
+  font-size: 24px;
+}
+
+.loading-spinner {
+  width: 60px;
+  height: 60px;
+  border: 4px solid rgba(255, 255, 255, 0.3);
+  border-top-color: white;
+  border-radius: 50%;
+  animation: spin 1s linear infinite;
+  margin-bottom: 20px;
+}
+
+@keyframes spin {
+  to { transform: rotate(360deg); }
+}
+
