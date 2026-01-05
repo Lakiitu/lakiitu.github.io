@@ -24,6 +24,8 @@ Themes and stickers - Customize Lakiitu to make it yours
 Lakiitu 2025-2026 CC License apply
 
 Contact
+
 E-Mail : 0codegame0@gmail.com
+
 Discord : arcju
 
