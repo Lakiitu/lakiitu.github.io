@@ -5,9 +5,9 @@ Why are we here?
 Because Some other projects are
 only publishing to android and are losing the 
 opportunity to make somthing great for pc.
-And we are trying to make on of a kind frontend
+And we are trying to make one of a kind frontend
 
-lakiitu.github.io
+https://lakiitu.github.io
 
 Lakiitu 2025-2026 CC License apply
 
